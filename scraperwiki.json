@@ -1,0 +1,4 @@
+{
+  "displayName": "Retrieve news feeds",
+  "description": "Enter a feed URL and retrieve the posts as they're added"
+}
